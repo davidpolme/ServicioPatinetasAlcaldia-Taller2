@@ -46,14 +46,14 @@ Con base en el desempeño de cada uno de los modelos, concluya cuál es el model
 ### Interpretación (10 pts)
 
 El día de la presentación de resultados, una persona de la alcaldía le hace las siguientes preguntas:
+
 - ¿Cuáles son las 3 variables más importantes para la predicción de la cantidad de usuarios?
 - Describa cual es el escenario ideal para el incremento de usuarios.
 - ¿Qué pasos adicionales deberían tener en cuenta para una próxima iteración/mejora del modelo?
 
-## Para tener en cuenta:
+## Para tener en cuenta
 
 - Al consultar a un meteorólogo, este sugiere agrupar las precipitaciones en un
 grupo, la neblina en otro grupo y el resto en otro.
 - Es de interés particular el comportamiento de los usuarios durante la semana.
 - Realice imputación y corrección de variables según la lógica del negocio.
-
